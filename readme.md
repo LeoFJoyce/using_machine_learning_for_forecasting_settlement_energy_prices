@@ -19,5 +19,7 @@ jupyter notebook
 - main.ipyn the notebook
 - helper_functions.py is where helper functions for notebook is stored
 - Energy_dataset.csv is the dataset
+- main.html has saved output of juypter cells
+  
 
  
